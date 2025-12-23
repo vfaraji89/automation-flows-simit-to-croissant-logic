@@ -61,11 +61,8 @@ Navigate to the appropriate tier file and copy the prompt template.
 
 Fill in the `[PLACEHOLDERS]` with your specific use case details.
 
-### 4. Generate with AI
 
-Paste into **Claude 3.5 Sonnet** or **GPT-4o** and follow the interactive process.
-
-### 5. Import to n8n
+### 4. Import to n8n
 
 Copy the generated JSON workflow and paste it into your n8n canvas (`Cmd+V` / `Ctrl+V`).
 
