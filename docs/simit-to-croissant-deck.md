@@ -1,4 +1,4 @@
-# 🥯 The Simit-to- Croissant Framework
+# 🥯 The Simit-to- 🥐 Croissant Framework
 ## A Philosophy for Building AI Automation
 
 > **Author:** Vahid Faraji  
