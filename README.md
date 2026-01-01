@@ -1,6 +1,6 @@
-# 🥯 n8n Automation Use Cases
+# 🥯 Automation Use Cases
 
-> **The Simit-to-Croissant Framework** — A philosophy for building AI automation with n8n
+> **The Simit-to-Croissant Framework** — A philosophy for building AI automation with any tools
 
 [![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=flat-square&logo=n8n)](https://n8n.io)
 [![AI Powered](https://img.shields.io/badge/AI-Powered-blue?style=flat-square&logo=openai)](https://openai.com)
