@@ -10,7 +10,7 @@
 
 ## 🎯 What is This?
 
-A comprehensive collection of **prompts**, **templates**, and **documentation** for building AI-powered automation workflows with n8n. This repository follows the **Simit-to-Croissant** philosophy:
+A comprehensive collection of **prompts**, **templates**, and **documentation** for building AI-powered automation workflows with n8n,power automate and zapier. This repository follows the **Simit-to-Croissant** philosophy:
 
 | Phase | Analogy | Focus |
 |-------|---------|-------|
